@@ -18,8 +18,8 @@
     "use-constant": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^16.8.0 || ^17.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0"
   },
   "devDependencies": {
     "@babel/cli": "7.12.1",
@@ -37,11 +37,11 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "4.2.1",
     "eslint-plugin-react": "7.21.5",
-    "eslint-plugin-react-hooks": "2.5.1",
+    "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-standard": "4.0.2",
     "jest": "25.5.4",
-    "react": "16.14.0",
-    "react-dom": "16.14.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
     "rollup": "2.32.1",
     "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-terser": "5.3.1",
